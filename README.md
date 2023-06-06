@@ -1,2 +1,2 @@
-# stepik_golang
-Go course
+# Go course
+[Link](https://stepik.org/course/54403)
