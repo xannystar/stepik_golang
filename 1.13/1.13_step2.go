@@ -23,7 +23,7 @@ func main() {
 		var num int
 		fmt.Scan(&num)
 		if num > 99 && num < 1000 {
-			fmt.Print((num / 100) + (num / 10 % 10) + num%10)
+			fmt.Print((num / 100) + (num / 10 % 10) + (num % 10))
 			break
 		}
 	}
